@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MKR-360
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on Web applications projects.
+- 👀 I’m interested in Data Analytics, Robotics.
+- 🌱 I’m currently learning C/C++ and Python.
+- 💞️ I’m looking to collaborate on Analytics and App Development projects.
 - 📫 How to reach me ...
 
 <!---
